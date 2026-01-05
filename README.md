@@ -6,9 +6,14 @@
 
 ## 效果预览
 
-| 正面 | 背面 | 发光效果 |
-| :---: | :---: | :---: |
-| <img src="pictures4md/front.jpg" width="200"> | <img src="pictures4md/back.jpg" width="200"> | <img src="pictures4md/light.jpg" width="200"> |
+### 正面
+<img src="pictures4md/front.jpg" width="600">
+
+### 背面
+<img src="pictures4md/back.jpg" width="600">
+
+### 发光效果
+<img src="pictures4md/light.jpg" width="600">
 
 ## 使用说明
 
