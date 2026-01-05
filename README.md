@@ -4,6 +4,12 @@
 绿皮科技，很粗糙的产品，可通过嘉立创白嫖。  
 原设计与效果展示：[B站视频](https://www.bilibili.com/video/BV1EDmHByEEd)
 
+## 效果预览
+
+| 正面 | 背面 | 发光效果 |
+| :---: | :---: | :---: |
+| <img src="pictures4md/front.jpg" width="200"> | <img src="pictures4md/back.jpg" width="200"> | <img src="pictures4md/light.jpg" width="200"> |
+
 ## 使用说明
 
 - 下单时请**手动指定客编位置**，否则客编可能会印到正面，很难看。
